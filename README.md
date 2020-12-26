@@ -14,5 +14,8 @@ Spare time and effort for deploying changes manually on the different services t
 
 ## DEMO
 
+gifs.com/gif/jenkins-mODXoE
+[![Demo CountPages alpha](https://gifs.com/gif/jenkins-mODXoE)](https://www.youtube.com/watch?v=ek1j272iAmc)
+
 [<img src="https://gifs.com/gif/jenkins-mODXoE>" width="50%">](https://www.youtube.com/watch?v=QmFHNb4QLdQ)
 
