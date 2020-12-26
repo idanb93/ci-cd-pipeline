@@ -14,7 +14,5 @@ Spare time and effort for deploying changes manually on the different services t
 
 ## DEMO
 
-[![Demo CountPages alpha](https://gifs.com/gif/k8AMxX)](https://www.youtube.com/watch?v=QmFHNb4QLdQ)
-
-<iframe src='//gifs.com/embed/k8AMxX' frameborder='0' scrolling='no' width='640px' height='360px' style='-webkit-backface-visibility: hidden;-webkit-transform: scale(1);' ></iframe>
+gifs.com/gif/jenkins-mODXoE
 
