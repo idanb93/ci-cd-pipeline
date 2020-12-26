@@ -14,6 +14,6 @@ Spare time and effort for deploying changes manually on the different services t
 
 ## DEMO
 
-[![gifs.com/gif/jenkins-mODXoE](http://img.youtube.com/vi/QmFHNb4QLdQ/0.jpg)](http://www.youtube.com/watch?v=QmFHNb4QLdQ "Jenkins")
+[![gifs.com/gif/jenkins-mODXoE](http://img.youtube.com/vi/QmFHNb4QLdQ/0.gif)](http://www.youtube.com/watch?v=QmFHNb4QLdQ "Jenkins")
 
 
