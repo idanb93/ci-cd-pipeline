@@ -14,6 +14,5 @@ Spare time and effort for deploying changes manually on the different services t
 
 ## DEMO
 
-<div align="center">
-  <a href="https://www.youtube.com/watch?v=QmFHNb4QLdQ"><img src="https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg" alt="IMAGE ALT TEXT"></a>
-</div>
+[![Demo CountPages alpha](gifs.com/gif/jenkins-k8AMxX)](https://www.youtube.com/watch?v=QmFHNb4QLdQ)
+
