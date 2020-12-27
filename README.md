@@ -1,6 +1,6 @@
 # Synopsis
 
-Continuous integration project - I created jenkins docker container and tomcat docker container on the same network and then created a job on jenkins that samples changes in a git repository once per minute, pulls the changes and then automatically map the changed files to the webapps folder on tomcat.
+I created jenkins docker container and tomcat docker container on the same network and then created a job on jenkins that poll the SCM periodically from a git repository once per minute, if there is changes it retrive the changes and then automatically map them to the webapps folder on tomcat.
 
 ## Goals
 
