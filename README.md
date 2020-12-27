@@ -14,12 +14,6 @@ Spare time and effort for deploying changes manually on the different services t
 
 ## DEMO
 
-https://i.makeagif.com/media/12-27-2020/A3MZ7W.gif
-
-[![gifs.com/gif/jenkins-mODXoE](http://gifs.com/gif/jenkins-mODXoE.gif)](http://www.youtube.com/watch?v=QmFHNb4QLdQ "Jenkins")
-
-[![Demo CountPages alpha](https://i.makeagif.com/media/12-27-2020/A3MZ7W.gif)](https://www.youtube.com/watch?v=ek1j272iAmc)
-
-[![gifs.com/gif/jenkins-mODXoE](http://img.youtube.com/vi/QmFHNb4QLdQ/0.jpg)](http://www.youtube.com/watch?v=QmFHNb4QLdQ "Jenkins")
+[![https://user-images.githubusercontent.com/35878173/103166707-6464fc00-482d-11eb-91bb-2c6db446e010.gif](https://user-images.githubusercontent.com/35878173/103166707-6464fc00-482d-11eb-91bb-2c6db446e010.gif)](http://www.youtube.com/watch?v=QmFHNb4QLdQ "Jenkins")
 
 
