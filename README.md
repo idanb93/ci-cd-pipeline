@@ -14,5 +14,4 @@ Spare time and effort for deploying changes manually on the different services t
 
 ## DEMO
 
-[![https://user-images.githubusercontent.com/35878173/103166910-60d27480-482f-11eb-8b1e-73edccece4e5.gif]https://user-images.githubusercontent.com/35878173/103166910-60d27480-482f-11eb-8b1e-73edccece4e5.gif)](http://www.youtube.com/watch?v=QmFHNb4QLdQ "Jenkins")
-
+[![https://user-images.githubusercontent.com/35878173/103166910-60d27480-482f-11eb-8b1e-73edccece4e5.gif](https://user-images.githubusercontent.com/35878173/103166910-60d27480-482f-11eb-8b1e-73edccece4e5.gif)](http://www.youtube.com/watch?v=QmFHNb4QLdQ "Jenkins")
