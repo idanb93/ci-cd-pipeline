@@ -10,6 +10,6 @@ Create an automated process for deploying changes in other containers / services
 
 Spare time and effort for deploying changes manually on the different services that we use.
 
-## DEMO
+## Demonstration 
 
 [![https://user-images.githubusercontent.com/35878173/103166910-60d27480-482f-11eb-8b1e-73edccece4e5.gif](https://user-images.githubusercontent.com/35878173/103166910-60d27480-482f-11eb-8b1e-73edccece4e5.gif)](https://www.youtube.com/watch?v=LkW4Uj31RZ0 "Jenkins")
