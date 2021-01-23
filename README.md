@@ -1,14 +1,16 @@
 # Synopsis
 
-I created jenkins docker container and tomcat docker container on the same network and then created a job on jenkins that poll the SCM periodically from a git repository once per minute, if there is changes it retrive the changes and then automatically map them to the webapps folder on tomcat.
+I created a Jenkins container which i have used to create a job that automatically retrieve files from a git repository every time someone commit changes, Then i created a Tomcat container with folder mapping to the Jenkins folder so the retrived files will be automatically mapped to the Tomcat container and be displayed when reaching the server.
+
+When I created the containers I put them in one network so they could communicate, then I used a plugin for Jenkins called 'Monitor Site' that checks if the site is up / down.
 
 ## Goals
 
-Create an automated process for deploying changes in other containers / services when developers making changes in a git repository.
+Create an automated process that can link and update changes from a git repository on a server.
 
 ## Motivation
 
-Spare time and effort for deploying changes manually on the different services that we use.
+Allow developers the commit changes to the git repository without worrying about dealing with deploying the changes on the server.
 
 ## Demonstration 
 
