@@ -1,8 +1,11 @@
 # Synopsis
 
-In this project I created a Jenkins container which i have used to create a job that poll SCM periodically every one minute for a certain Git repository, and automatically retrieve files from that Git repository every time someone commit changes to it. Then i created a Tomcat container with folder mapping to the Jenkins folder so the retrived files from the Git repository will be automatically mapped to the Tomcat container and will be displayed when reaching the server.
+In this project I created a Jenkins container which I used to create a job that poll SCM every minute to check if a new commit has been made in a particular Git repository.
+if it detects a new commit it automatically retrieve the files.
 
-When i created the containers i put them in one network so they could communicate with each other, Then i used a plugin for Jenkins called 'Monitor Site' and added it to the job. Everytime you build the job it checks if the tomcat server is up or down.
+Afterwards I created a Tomcat container with folder mapping to the Jenkins folder so the retrived files from the Git repository will be automatically mapped to the Tomcat container and will be displayed when reaching the server.
+
+When i created the containers i put them in one network so they could communicate with each other, Then on the jenkings container i added a plugin for the job called 'Monitor Site', so that everytime that the jenkins job is being built it checks if the tomcat server is up or down.
 
 ## Goals
 
